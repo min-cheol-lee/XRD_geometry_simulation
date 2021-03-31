@@ -5,5 +5,7 @@ Simulation for X-ray diffraction (XRD) geometric conditions of 4-circle diffract
 - omega, two-theta, chi, phi angles 4C alignment for X-ray beam
 - incidence grazing angle, polarization angle for optical beam
 
+![image](https://user-images.githubusercontent.com/75286302/113194679-9f0c7500-921e-11eb-9265-8095a240602f.png)
 ![image](https://user-images.githubusercontent.com/75286302/113194490-6ff60380-921e-11eb-9e03-a5ba6bce64aa.png)
+
 example of simulation output for geometric conditions of optical-pump and XRD-probe on YBa2Cu3O6.7 with grazing incidence angle 3 deg.
